@@ -1,0 +1,30 @@
+Fliqon — licensing for this repository
+======================================
+
+This repository contains two kinds of material under different terms.
+
+1. The Fliqon protocol specification (PROTOCOL.md)
+
+   Copyright (c) 2026 Ushnish Ghosal.
+   Licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0).
+   You may share and adapt it, for any purpose including building compatible implementations,
+   provided you give appropriate credit, link to the licence and indicate if changes were made.
+   Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+2. The Fliqon applications and everything else
+
+   The Fliqon applications for Windows and Android distributed as release assets in this repository
+   (including FLIQON-Setup-x64.exe and FLIQON-android.apk), and all other files except PROTOCOL.md, are
+   proprietary software.
+
+   Copyright (c) 2026 Ushnish Ghosal. All rights reserved.
+
+   You may download and use the applications only under the Fliqon Terms of Use
+   (https://fliqon.vercel.app/terms) and, during the beta, the Beta Testing Agreement
+   (https://fliqon.vercel.app/beta-agreement). You may not copy, redistribute, sell, modify, reverse
+   engineer, decompile or disassemble them, except where applicable law expressly permits it.
+
+   The applications are provided "as is", without warranty of any kind.
+
+The CC BY 4.0 licence of the specification grants no rights in the applications, their source code,
+or the Fliqon name and logo.
