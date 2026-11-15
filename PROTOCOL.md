@@ -60,7 +60,7 @@ flowchart LR
     HTTPS["HTTPS receiver :52400<br/>TLS · signature check · replay cache"]
     PIPE["Upload pipeline<br/>stream → hash → verify → place"]
     STORE_D[("Paired devices<br/>+ transfer history")]
-    FILES[("Downloads\\FLIQON")]
+    FILES[("Downloads › FLIQON")]
     SPATIAL["Spatial UI<br/>floating file cards"]
     HTTPS --> PIPE --> FILES
     HTTPS <--> STORE_D
