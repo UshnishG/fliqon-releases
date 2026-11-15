@@ -47,7 +47,7 @@ flowchart LR
   subgraph PC["💻 Windows PC"]
     R["Fliqon receiver<br/>HTTPS :52400"]
     S["Spatial screen<br/>floating file cards"]
-    F[("Downloads\FLIQON")]
+    F[("Downloads › FLIQON")]
     R --> F
     R -. live progress .-> S
   end
