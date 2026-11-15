@@ -281,7 +281,7 @@ sequenceDiagram
     PC->>PC: Hash == expected? keep : delete + fail
     PC-->>Phone: 200 { savedPath, checksumSha256 }
   end
-  PC-->>User: Cards land; files are in Downloads\FLIQON
+  PC-->>User: Cards land; files are in Downloads › FLIQON
 ```
 
 1. **Announce (best effort).** Sent first so the receiver can show the whole batch instantly. Uploads never
